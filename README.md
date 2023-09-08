@@ -6,7 +6,7 @@ Basic Installation
 
    These are generic installation instructions.
 
-   The `configure' shell script attempts to guess correct values for
+   The "configure" shell script attempts to guess correct values for
 various system-dependent variables used during compilation.  It uses
 those values to create a `Makefile' in each directory of the package.
 It may also create one or more `.h' files containing system-dependent
@@ -22,7 +22,7 @@ diffs or instructions to the address given in the `README' so they can
 be considered for the next release.  If at some point `config.cache'
 contains results you don't want to keep, you may remove or edit it.
 
-   The file `configure.in' is used to create `configure' by a program
+   The file "configure.in" is used to create `configure' by a program
 called `autoconf'.  You only need `configure.in' if you want to change
 it or regenerate `configure' using a newer version of `autoconf'.
 
